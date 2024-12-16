@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Tiago, a Senior Research Software Engineer with [RSE Newcastle University](https://rse.ncldata.dev/).
+
+- 🔭 I’m currently working on a cool project about seventeenth-century beekeeping
 <!--
 **tiagosousagarcia/tiagosousagarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
